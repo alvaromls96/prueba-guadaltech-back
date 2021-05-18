@@ -1,0 +1,18 @@
+{
+  "name": "prueba-guadaltech-back",
+  "version": "1.0.0",
+  "description": "guadaltech technical assessment",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alvaromls96",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "uuid": "^8.3.2"
+  },
+  "type": "module"
+}
